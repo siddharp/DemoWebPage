@@ -2,8 +2,8 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body style="background-color:Blue;">
-		<b><p>Hello SDET- you are the future of AQE</p>,/b>
+	<body style="background-color:Green;">
+		<b><p>Hello SDET- you are the future of AQE</p></b>
 		
 		<input type="text" id="myText" value="">
 			
