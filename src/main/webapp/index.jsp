@@ -2,8 +2,9 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body style="background-color:red;">
+	<body style="background-color:sky Blue;">
 		<p>Hello SDET- you are the future of AQE</p>
+		<marquee direction="down"> A scrolling text created with HTML Marquee element.</marquee>
 		<input type="text" id="myText" value="">
 						<button onclick="myFunction()">Click Here</button>		
 						<p id="demo"></p>
