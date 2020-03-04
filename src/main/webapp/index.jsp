@@ -3,7 +3,7 @@
 		<title>Test Page</title>
 	</head>
 	<body style="background-color:Green;">
-		<b><p>Hello SDET- you are the future of AQE</p></b>
+		<b><p>Hello Avishkaarans, This is Auto-deployment demo</p></b>
 		
 		<input type="text" id="myText" value="">
 			
