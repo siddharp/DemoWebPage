@@ -53,7 +53,24 @@
 	<groupId>com.microsoft.azure</groupId>  
 	<artifactId>azure-webapp-maven-plugin</artifactId>  
 	<version>1.9.0</version>  
-	</plugin> 
+	<configuration>
+	  <schemaVersion>V2</schemaVersion>
+	  <resourceGroup>Avishkar</resourceGroup>
+	  <appName>AvishkarSite</appName>
+	  <pricingTier>F1</pricingTier>
+	  <region>westeurope</region>
+	   <deployment>
+		<resources>
+		  <resource>
+			<directory>${project.basedir}/target</directory>
+			<includes>
+			  <include>*.jar</include>
+			</includes>
+		  </resource>
+		</resources>
+	  </deployment>
+	</configuration>
+  </plugin> 
 		</plugins>
 	</build>
 </project>
