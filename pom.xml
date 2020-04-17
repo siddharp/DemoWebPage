@@ -61,9 +61,7 @@
 	  <region>westeurope</region>
 		<runtime>
 		<os>windows</os>
-		<javaVersion>Java 8</javaVersion>
-		<webContainer>Java 8</webContainer>
-	  </runtime>
+		</runtime>
 	   <deployment>
 		<resources>
 		  <resource>
