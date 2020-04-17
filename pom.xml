@@ -59,6 +59,11 @@
 	  <appName>AvishkarSite</appName>
 	  <pricingTier>F1</pricingTier>
 	  <region>westeurope</region>
+		<runtime>
+		<os>windows</os>
+		<javaVersion>java8</javaVersion>
+		<webContainer>java8</webContainer>
+	  </runtime>
 	   <deployment>
 		<resources>
 		  <resource>
