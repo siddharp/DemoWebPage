@@ -59,10 +59,7 @@
 	  <appName>AvishkarSite</appName>
 	  <pricingTier>F1</pricingTier>
 	  <region>westeurope</region>
-		<runtime>
-		<os>windows</os>
-		</runtime>
-	   <deployment>
+		 <deployment>
 		<resources>
 		  <resource>
 			<directory>${project.basedir}/target</directory>
