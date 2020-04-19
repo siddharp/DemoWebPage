@@ -15,6 +15,11 @@
 						function myFunction() {
 						    var x = document.getElementById("myText").value;
 						   document.getElementById("demo").innerHTML = x;
+							var target =-5;
+var num = 3;
+
+target =- num;  // Noncompliant; target = -3. Is that really what's meant?
+target =+ num; // Noncompliant; target = 3
 						}
 						</script>
 			<marquee direction="down"> A scrolling text created with HTML Marquee element.</marquee>
