@@ -20,6 +20,10 @@ var num = 3;
 
 target =- num;  // Noncompliant; target = -3. Is that really what's meant?
 target =+ num; // Noncompliant; target = 3
+							
+							
+							var i = 0;
+i = i++; //
 						}
 						</script>
 			<marquee direction="down"> A scrolling text created with HTML Marquee element.</marquee>
