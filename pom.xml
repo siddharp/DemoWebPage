@@ -55,16 +55,16 @@
 	<version>1.9.0</version>  
 	<configuration>
 	  <schemaVersion>V2</schemaVersion>
-	  <resourceGroup>Avishkar</resourceGroup>
-	  <appName>AvishkarSite</appName>
+	  <resourceGroup>rg-AzureDemoWebPage</resourceGroup>
+	  <appName>AzureDemoWebPage</appName>
 	  <pricingTier>F1</pricingTier>
-	  <region>westeurope</region>
+	  <region>Cerntral US</region>
 		 <deployment>
 		<resources>
 		  <resource>
 			<directory>${project.basedir}/target</directory>
 			<includes>
-			  <include>*.jar</include>
+			  <include>*.war</include>
 			</includes>
 		  </resource>
 		</resources>
