@@ -61,8 +61,7 @@
 	  <region>centralus</region>
 		<runtime>
 		<os>windows</os>
-		<javaVersion>jre8</javaVersion>
-                <webContainer>tomcat 8.5</webContainer>
+		<webContainer>tomcat 8.5</webContainer>
 	  </runtime>
 		 <deployment>
 		<resources>
