@@ -58,7 +58,7 @@
 	  <resourceGroup>rg-AzureDemoWebPage</resourceGroup>
 	  <appName>AzureDemoWebPage</appName>
 	  <pricingTier>F1</pricingTier>
-	  <region>Cerntral US</region>
+	  <region>centralus</region>
 		 <deployment>
 		<resources>
 		  <resource>
