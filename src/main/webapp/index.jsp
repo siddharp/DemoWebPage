@@ -2,7 +2,7 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body style="background-color:Green;">
+	<body style="background-color:Yellow;">
 		<b><p>Hello Avishkaarans, This is Auto-deployment demo</p></b>
 		
 		<input type="text" id="myText" value="">
