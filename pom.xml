@@ -59,6 +59,11 @@
 	  <appName>AzureDemoWebPage</appName>
 	  <pricingTier>F1</pricingTier>
 	  <region>centralus</region>
+		<runtime>
+		<os>windows</os>
+		<javaVersion>java8</javaVersion>
+		<webContainer>tomacat8.5</webContainer>
+	  </runtime>
 		 <deployment>
 		<resources>
 		  <resource>
